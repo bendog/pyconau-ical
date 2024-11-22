@@ -1,0 +1,9 @@
+[project]
+name = "pyconau-ical"
+version = "0.1.0"
+description = "Script to convert json calendar data to ical format"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ical==8.2.0"
+]
